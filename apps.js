@@ -6,4 +6,8 @@
 
 // includs  // khuje ber kora.
 // Index
-// startWith and endsWith 
+// startWith and endsWith
+
+// split
+// slice 
+// substring
