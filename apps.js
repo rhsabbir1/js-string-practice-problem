@@ -3,3 +3,5 @@
 
 // toLowerCase
 // toUpperCase
+
+// includs  // khuje ber kora.
