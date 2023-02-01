@@ -6,3 +6,4 @@
 
 // includs  // khuje ber kora.
 // Index
+// startWith and endsWith 
