@@ -11,3 +11,13 @@
 // split
 // slice 
 // substring
+
+/* -------
+   math
+---------- 
+abs
+random
+pow  
+*/
+
+// temp 
