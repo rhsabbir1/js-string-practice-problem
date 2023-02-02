@@ -12,3 +12,22 @@ if(gap < 5){
 else{
     console.log('Dure Dure thako')
 }
+
+// var randomNumber= Math.random()*4;
+// console.log(randomNumber)
+
+function randomNumber(randomNumbers){
+
+    for(let i = 0; i <= randomNumbers; i++){
+        var random =Math.random()*i;
+        var randomPreseInt = parseInt(random);
+        console.log(randomPreseInt)
+    }
+}
+
+randomNumber(10)
+
+// var a = 2.22220001155511;
+// var towDecmel = a.toFixed(2)
+// var towDecmelNum = parseFloat(towDecmel)
+// console.log(towDecmelNum)
